@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Money
+  - Enemy
+  - GameMusic
+  - Exit
+  - Reward
+  - Ground
+  - Fall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2586285663
+    locked: 0
+  - name: Water
+    uniqueID: 731045291
+    locked: 0
+  - name: Tilemap
+    uniqueID: 115418133
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Prop
+    uniqueID: 1557456071
+    locked: 0
+  - name: Player
+    uniqueID: 118683261
+    locked: 0
